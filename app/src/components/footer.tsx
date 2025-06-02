@@ -61,7 +61,7 @@ const Footer = () => {
           >
             <div className="footer-logo-container">
               <Image
-                src="/wheatchain-logo.jpg"
+                src="/wheatchain-logo.png"
                 alt="WheatChain Protocol"
                 width={60}
                 height={60}

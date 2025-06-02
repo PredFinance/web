@@ -25,7 +25,7 @@ const HeroSection = () => {
         >
           <div className="logo-container">
             <Image
-              src="/wheatchain-logo.jpg"
+              src="/wheatchain-logo.png"
               alt="WheatChain Protocol Logo"
               width={250}
               height={250}
